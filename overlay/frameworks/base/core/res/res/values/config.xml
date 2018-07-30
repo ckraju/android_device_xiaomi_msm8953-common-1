@@ -360,4 +360,6 @@
          sdk/src/java/org/lineageos/internal/util/DeviceKeysConstants.java.
     -->
     <integer name="config_longPressOnAppSwitchBehavior">1</integer>
+
+    <bool name="config_button_brightness_support">true</bool>
 </resources>
