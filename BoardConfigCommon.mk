@@ -165,9 +165,6 @@ TARGET_RECOVERY_DEVICE_MODULES := libinit_msm8953
 # IPA
 USE_DEVICE_SPECIFIC_DATA_IPA_CFG_MGR := true
 
-# Lineage Hardware
-JAVA_SOURCE_OVERLAYS := org.lineageos.hardware|$(VENDOR_PATH)/lineagehw|**/*.java
-
 # Lights
 TARGET_PROVIDES_LIBLIGHT := true
 
